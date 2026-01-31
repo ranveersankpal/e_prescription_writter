@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+faster-whisper
+langchain
+langchain-community
+pypdf
+pandas
+openpyxl
+unstructured
+networkx
+python-docx
+msoffcrypto-tool
