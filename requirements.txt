@@ -12,3 +12,4 @@ unstructured
 networkx
 python-docx
 msoffcrypto-tool
+llama-cpp-python
